@@ -1,0 +1,17 @@
+h1 {
+    background-color: blue;
+    font-size: 22px;
+}
+body {
+    padding: 15px;
+    background-color: grey;
+    font-size: 14px;
+}
+.body .message {
+    background-color: green;
+}
+.message{
+    background-color: black;
+    color: blue;
+    font-size: 22px;
+}
